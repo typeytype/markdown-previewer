@@ -39,7 +39,7 @@ export default class App extends React.Component {
             <div className="col text-center">
               <h1>
                 {" "}
-                <Badge className="text-align-center" variant="primary">
+                <Badge className="text-align-center" variant="danger">
                   React Markdown Previewer
                 </Badge>
               </h1>
