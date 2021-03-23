@@ -6,7 +6,7 @@ export default class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      markdown: "This is a React Markdown Previewer app. Please use both the app and its code freely.  \n# Hello,  \n _Can anybody hear me?_  \n**I'm not sure**  \n~~Scratch that~~  \n## Hello! Anybody there?  \n > Perhaps a block quote will rustle up a response?  \nNo? Then no one will mind if I shamelessly plug [my website](https://mrmontyhall.com)?"
+      markdown: "This is a React Markdown Previewer app. Please use the app and its code freely.  \n# Hello,  \n _Can anybody hear me?_  \n**I'm not sure**  \n~~Scratch that~~  \n## Hello! Anybody there?  \n > Perhaps a block quote will rustle up a response?  \nNo? Then no one will mind if I shamelessly plug [my website](https://mrmontyhall.com)?"
     };
   }
 
